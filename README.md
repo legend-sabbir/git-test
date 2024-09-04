@@ -1,4 +1,4 @@
 # git-test
 Git test
 
-Added manually
+Added manually, This file was modified locally
